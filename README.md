@@ -1,6 +1,6 @@
 ### Computer Science major at the University of Central Florida.
 
-If you are looking to collaborate or need to contact me shoot me an <a href="mailto:adamfarrow1@gmail.com">email!</a>
+If you are looking to collaborate or need to contact me you can do so at my <a href="mailto:adamfarrow1@gmail.com">email.</a>
 
 ---
 
