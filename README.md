@@ -4,7 +4,8 @@ If you are looking to collaborate or need to contact me shoot me an <a href="mai
 
 ---
 
-[My resume](http://adamfarrow1.github.io/)
+<div><a href="https://github.com/Adamfarrow1/resume/blob/main/resume.pdf">My Resume</a></div>
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adamfarrow1&layout=compact&theme=github_dark#gh-dark-mode-only)](https://github.com/Adamfarrow1/github-readme-stats#gh-dark-mode-only)
 
