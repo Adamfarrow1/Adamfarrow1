@@ -4,6 +4,19 @@ If you are looking to collaborate or need to contact me you can do so at my <a h
 
 ---
 
+## 🔒 Notable Private Project
+
+### AI Outreach System
+AI-powered voice outreach platform built to automate real-time phone interactions using speech-to-text, text-to-speech, and AI-generated responses.
+
+- Originally developed in 48 hours during ShellHacks 2024, then refined into a full product.
+- Sold to a real estate brokerage to streamline client communication and outreach workflows.
+- Technologies: Node.js, Fastify, OpenAI API, Twilio, WebSockets, Google Cloud STT/TTS
+
+🔗 *This project is in a private repository. I'm happy to share code samples or demo access upon request.*
+
+
+
 <div><a href="https://github.com/Adamfarrow1/resume/blob/main/resume.pdf">My Resume</a></div>
 <br>
 
