@@ -12,6 +12,10 @@ I'm a software engineer focused on building full-stack products, backend service
 - Database systems and data workflows
 - Systems programming with Rust
 
+## GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adamfarrow1&layout=compact&hide=jupyter%20notebook,html,css)
+
 ## Core Technologies
 
 React, Next.js, TypeScript, Node.js, Express, REST APIs, WebSockets, MongoDB, Redis, Snowflake, MySQL, AWS, Docker, Firebase, Rust, C, and C++.
