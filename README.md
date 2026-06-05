@@ -23,10 +23,33 @@ React, Next.js, TypeScript, Node.js, Express, REST APIs, WebSockets, MongoDB, Re
 ## Featured Work
 
 ### AI Voice Automation Platform
-AI-powered calling platform for property management companies. Built backend APIs, real-time communication workflows, database models, and cloud infrastructure for call automation, scheduling workflows, and customer communication.
+
+AI-powered calling platform for property management companies that automates leasing, maintenance, scheduling, and customer communication workflows.
+
+- Designed and built backend APIs and application architecture
+- Implemented real-time voice communication workflows
+- Integrated AI, telephony, scheduling, and database systems
+- Built cloud infrastructure and deployment pipelines
+- Developed customer-facing dashboards and management tools
+
+**Tech:** TypeScript, Node.js, Next.js, MongoDB, Redis, WebSockets, Twilio, AWS
 
 ### Rust SQL Database Engine
-Lightweight SQL database engine built in Rust to explore database internals, file persistence, page storage, indexing, schema handling, record serialization, and query parsing.
+
+Lightweight SQL database engine built in Rust to explore database internals and storage engines.
+
+- Page management and file persistence
+- Record serialization and schema management
+- Query parsing and execution
+- Memory-safe systems programming
+
+**Tech:** Rust, File I/O, Database Internals, Query Processing
 
 ### Full-Stack Web Applications
-Web applications built with modern frontend frameworks, backend APIs, cloud deployment, and database-backed workflows.
+
+Built multiple full-stack applications spanning analytics dashboards, scheduling systems, automation tools, and web platforms.
+
+- Responsive React and Next.js frontends
+- Backend APIs and authentication systems
+- Database design and optimization
+- Cloud deployment and monitoring
