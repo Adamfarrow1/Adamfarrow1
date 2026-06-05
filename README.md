@@ -1,17 +1,28 @@
 # Adam Farrow
 
-Software Engineer focused on full-stack development, backend systems, and cloud-based applications.
+**Software Engineer | Full-Stack Development | Backend Systems | Cloud Applications**
 
-I'm currently a Software Engineer at Deloitte, where I work on production systems supporting large-scale data workflows and reporting. Outside of work, I build full-stack products, including an AI voice automation platform for property management companies.
+I'm a software engineer focused on building full-stack products, backend services, APIs, and cloud-based applications that solve real user problems.
+
+## Focus Areas
+
+- Full-stack product development
+- Backend APIs and real-time systems
+- Cloud-based applications
+- Database systems and data workflows
+- Systems programming with Rust
+
+## Core Technologies
+
+React, Next.js, TypeScript, Node.js, Express, REST APIs, WebSockets, MongoDB, Redis, Snowflake, MySQL, AWS, Docker, Firebase, Rust, C, and C++.
 
 ## Featured Work
 
 ### AI Voice Automation Platform
-AI-powered calling platform for property management companies that supports real-time phone conversations, scheduling workflows, and automation.
+AI-powered calling platform for property management companies. Built backend APIs, real-time communication workflows, database models, and cloud infrastructure for call automation, scheduling workflows, and customer communication.
 
-- Built backend APIs and real-time communication workflows
-- Designed cloud infrastructure and database models
-- Integrated voice, AI, and telephony services
-- Private production project; code samples/demo available upon request
+### Rust SQL Database Engine
+Lightweight SQL database engine built in Rust to explore database internals, file persistence, page storage, indexing, schema handling, record serialization, and query parsing.
 
-**Tech:** TypeScript, Node.js, Next.js, MongoDB, Redis, WebSockets, Twilio, Cloud Infrastructure
+### Full-Stack Web Applications
+Web applications built with modern frontend frameworks, backend APIs, cloud deployment, and database-backed workflows.
