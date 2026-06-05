@@ -1,25 +1,17 @@
-### Computer Science graduate at the University of Central Florida.
+# Adam Farrow
 
-If you are looking to collaborate or need to contact me you can do so at my <a href="mailto:adamfarrow1@gmail.com">email.</a>
+Software Engineer focused on full-stack development, backend systems, and cloud-based applications.
 
----
+I'm currently a Software Engineer at Deloitte, where I work on production systems supporting large-scale data workflows and reporting. Outside of work, I build full-stack products, including an AI voice automation platform for property management companies.
 
-## 🔒 Notable Private Project
+## Featured Work
 
-### AI Outreach System
-AI-powered voice outreach platform built to automate real-time phone interactions using speech-to-text, text-to-speech, and AI-generated responses.
+### AI Voice Automation Platform
+AI-powered calling platform for property management companies that supports real-time phone conversations, scheduling workflows, and automation.
 
-- Originally developed in 48 hours during ShellHacks 2024, then refined into a full product.
-- Sold to a real estate brokerage to streamline client communication and outreach workflows.
-- Technologies: Node.js, Fastify, OpenAI API, Twilio, WebSockets, Google Cloud STT/TTS
+- Built backend APIs and real-time communication workflows
+- Designed cloud infrastructure and database models
+- Integrated voice, AI, and telephony services
+- Private production project; code samples/demo available upon request
 
-🔗 *This project is in a private repository. I'm happy to share code samples or demo access upon request.*
-
-
-
-<div><a href="https://github.com/Adamfarrow1/resume/blob/main/resume.pdf">My Resume</a></div>
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adamfarrow1&layout=compact&theme=github_dark#gh-dark-mode-only)](https://github.com/Adamfarrow1/github-readme-stats#gh-dark-mode-only)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adamfarrow1&layout=compact&theme=default#gh-light-mode-only)](https://github.com/Adamfarrow1/github-readme-stats#gh-light-mode-only)
+**Tech:** TypeScript, Node.js, Next.js, MongoDB, Redis, WebSockets, Twilio, Cloud Infrastructure
