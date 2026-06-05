@@ -14,7 +14,7 @@ I'm a software engineer focused on building full-stack products, backend service
 
 ## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adamfarrow1&layout=compact&hide=jupyter%20notebook,html,css)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Adamfarrow1&layout=compact)
 
 ## Core Technologies
 
