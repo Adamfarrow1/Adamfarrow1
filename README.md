@@ -4,6 +4,9 @@
 
 I'm a software engineer focused on building full-stack products, backend services, APIs, and cloud-based applications that solve real user problems.
 
+
+**Resume:** https://github.com/Adamfarrow1/resume
+
 ## Focus Areas
 
 - Full-stack product development
